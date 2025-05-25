@@ -1,4 +1,4 @@
-screenshots/
+screenshot/
 .pytest_cache/
 venv/
 .idea/
