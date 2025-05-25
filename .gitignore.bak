@@ -1,8 +1,7 @@
 screenshots/
-target/
-allure-results/
-env-files/
+.pytest_cache/
+venv/
 .idea/
-.env
-.gitignore.bak
-README.md.bak
+assets/
+_pycache_/
+report.html

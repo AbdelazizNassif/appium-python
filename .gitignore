@@ -3,5 +3,5 @@ screenshots/
 venv/
 .idea/
 assets/
-_pycache_/
+__pycache__/
 report.html
