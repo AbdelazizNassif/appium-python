@@ -3,10 +3,8 @@ import time
 import pytest
 from appium import webdriver
 from appium.options.android import UiAutomator2Options
-import os
 
 
-# todo: take screenshot on fail
 # todo: pipeline or run on device farm
 # todo: user composition instead of inheritance
 
